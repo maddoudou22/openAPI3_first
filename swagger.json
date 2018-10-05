@@ -4,7 +4,7 @@ servers:
   - description: SwaggerHub API Auto Mocking
     url: https://virtserver.swaggerhub.com/maddoudou/OpenAPI3_first/1.0.0
 info:
-  description: Premiere API Open API v3.0
+  description: Premiere API Open API v3.0 push
   version: "1.0.0"
   title: Simple Inventory API
   contact:
